@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/collections.iml" filepath="$PROJECT_DIR$/collections/collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estruturas-de-dados/estruturas-de-dados.iml" filepath="$PROJECT_DIR$/estruturas-de-dados/estruturas-de-dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops-e-arrays/loops-e-arrays.iml" filepath="$PROJECT_DIR$/loops-e-arrays/loops-e-arrays.iml" />
+    </modules>
+  </component>
+</project>
